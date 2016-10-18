@@ -7,4 +7,4 @@
 5.  [移动端viewport小解](https://github.com/dorisgirl/blog/issues/5)
 6.  [初探webpack](https://github.com/dorisgirl/blog/issues/6)
 7.  [box-sizing小结](https://github.com/dorisgirl/blog/issues/7)
-8.  [一次vertical-aligin小分享](https://github.com/dorisgirl/blog/issues/8)
+8.  [一次关于浏览器字体解析的小分享](https://github.com/dorisgirl/blog/issues/8)
