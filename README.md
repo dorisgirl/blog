@@ -11,3 +11,5 @@
 9.  [关于background的小研究(一)](https://github.com/dorisgirl/blog/issues/9)
 10. [关于background的小研究(二)](https://github.com/dorisgirl/blog/issues/10)
 11. [img响应式布局](https://github.com/dorisgirl/blog/issues/11)
+12. [函数声明和函数表达式](https://github.com/dorisgirl/blog/issues/12)
+13. [函数内部属性arguments和this](https://github.com/dorisgirl/blog/issues/13)
