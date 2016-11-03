@@ -13,3 +13,4 @@
 11. [img响应式布局](https://github.com/dorisgirl/blog/issues/11)
 12. [函数声明和函数表达式](https://github.com/dorisgirl/blog/issues/12)
 13. [函数内部属性arguments和this](https://github.com/dorisgirl/blog/issues/13)
+14. [js变量赋值](https://github.com/dorisgirl/blog/issues/14)
