@@ -14,3 +14,5 @@
 12. [函数声明和函数表达式](https://github.com/dorisgirl/blog/issues/12)
 13. [函数内部属性arguments和this](https://github.com/dorisgirl/blog/issues/13)
 14. [js变量赋值](https://github.com/dorisgirl/blog/issues/14)
+15. [mac下安装nginx php  mysql小记](https://github.com/dorisgirl/blog/issues/15)
+
