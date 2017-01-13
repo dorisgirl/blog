@@ -1,5 +1,6 @@
 # blog
 
+16. [小程序挖挖坑](https://github.com/dorisgirl/blog/issues/16)
 15. [mac下安装nginx php  mysql小记](https://github.com/dorisgirl/blog/issues/15)
 14. [js变量赋值](https://github.com/dorisgirl/blog/issues/14)
 13. [函数内部属性arguments和this](https://github.com/dorisgirl/blog/issues/13)
